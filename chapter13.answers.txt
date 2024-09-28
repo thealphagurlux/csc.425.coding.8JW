@@ -1,11 +1,9 @@
 Question 2: There is 224 megabytes free, with a total memory of 7938 megabytes. The total memory seems to be about what I expected as the minimum RAM for
 most computers is around 8 gigabytes. I imagined that there would be around 2000 megabytes free though, so the smaller amount of free memory surprised me.
 
-Question 4:
+Question 4: In the second terminal it shows 152 megabytes are free. This matches my expectations.
 
-Question 5:
-
-Question 6:
+Question 6: The function of this file reminds me of something like task manager.
 
 Question 7:
 
